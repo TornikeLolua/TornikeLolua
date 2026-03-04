@@ -29,6 +29,10 @@ A full REST API for browsing books, authors and reviews
 Built with **Node.js**, **Express**, **SQLite**  
 Features MVC architecture, SQL JOINs, and full CRUD operations
 
+### 🌐 [Portfolio v1](https://github.com/TornikeLolua/portfolio-v1)
+My first semester personal portfolio website  
+Built with **HTML**, **CSS**, **JavaScript**
+
 ---
 
 ## 🤝 Connect With Me
