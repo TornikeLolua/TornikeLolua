@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,sqlite,react,git,github,vscode,postman,jquery,discord,linkedin,office365)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,sqlite,react,git,github,vscode,postman,jquery,discord,linkedin,office365,npm,bash)](https://skillicons.dev)
 
 ---
 
@@ -46,5 +46,5 @@ Features MVC architecture, SQL JOINs, and full CRUD operations
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeLolua&layout=compact&theme=tokyonight)
 
 ---
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TornikeLolua.TornikeLolua)
 ⭐ *Currently open to work — feel free to reach out!*
