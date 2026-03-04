@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,sqlite,react,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,sqlite,react,git,github,vscode,postman,jquery,discord,linkedin,office365)](https://skillicons.dev)
 
 ---
 
