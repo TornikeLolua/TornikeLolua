@@ -39,12 +39,8 @@ Features MVC architecture, SQL JOINs, and full CRUD operations
 
 ---
 
-## 📊 GitHub Stats
 
-![Tornike's GitHub stats](https://github-readme-stats.vercel.app/api?username=TornikeLolua&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TornikeLolua&layout=compact&theme=tokyonight)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TornikeLolua.TornikeLolua)
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TornikeLolua.TornikeLolua)
 ⭐ *Currently open to work — feel free to reach out!*
